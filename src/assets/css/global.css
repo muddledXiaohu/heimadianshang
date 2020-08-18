@@ -1,0 +1,11 @@
+.van-dropdown-menu__bar .van-dropdown-menu__title {
+    font-size: 12px;
+
+}
+.van-dropdown-menu__bar {
+    box-shadow: none;
+}
+.van-grid-item{
+    padding: 2px 3px;
+    height: 90px
+}

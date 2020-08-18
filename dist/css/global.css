@@ -1,0 +1,53 @@
+/* // 头部样式 */
+.van-nav-bar {
+    height: 40px !important;
+    background-color: #1989fa !important;
+}
+
+.van-nav-bar__title {
+    font-size: 14px !important;
+    color: #fff !important;
+}
+
+.van-nav-bar .van-icon {
+    color: #fff !important;
+}
+
+.van-nav-bar__text {
+    color: #fff !important;
+}
+
+a:hover {
+    color: #000;
+}
+
+/* 底部样式 */
+
+.iconfont {
+    font-size: 14px;
+}
+
+.icon-geniecommunity:before, .icon-icon-test2:before, .icon-icon-test:before, .icon-icon-test1:before,.icon-instruction:before {
+    font-size: 26px;
+}
+
+.van-tabbar-item .van-info {
+    top: -24px;
+    right: -11px;
+}
+
+.van-icon.van-icon-arrow-left {
+    color: #fff;
+}
+
+.van-tab {
+    line-height: 44px;
+}
+
+.van-tabs__line {
+    width: 41px!important;
+}
+
+.content p img {
+    width: 100%;
+}
